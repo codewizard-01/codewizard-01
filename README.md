@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Esmatullah
-- 👀 I’m interested in programming, photography, and sleep
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in programming,designing, and photography
+- 🌱 I’m studying computer science
 - 📫 You can contact me via my linkedin:  https://www.linkedin.com/in/esmatullah-hadi-121862234
   
 
