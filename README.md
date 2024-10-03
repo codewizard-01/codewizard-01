@@ -33,8 +33,8 @@ I believe that technology has the power to change lives, and I’m committed to 
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out:
 
 - 📧 [Email](mailto:esmatullahahdi@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/esmatullah-hadi]/)
-
+- 💼 [LinkedIn]([https://www.linkedin.com/in/esmatullah-hadi-121862234/])
+ 
 ---
 
 ## ✨ Fun Fact:
