@@ -7,8 +7,8 @@ I’m a software developer with a passion for building meaningful digital soluti
 
 ## 🛠 Tech Stack & Expertise
 
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery
-- **Backend:** Node.js, React, SQL
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery, React
+- **Backend:** Node.js, SQL
 - **Tools:** Git, GitHub, Linux
 - **Currently Exploring:** Web3, Blockchain, NFTs, Automated Trading Bots
 
